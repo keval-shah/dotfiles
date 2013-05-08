@@ -1,0 +1,2 @@
+set nonumber
+:colorscheme zenburn
