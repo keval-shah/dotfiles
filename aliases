@@ -23,8 +23,6 @@ export IDEA_HOME=~/intelliJIdea
 PATH=$PATH:$IDEA_HOME/bin
 export IDEA_JDK=/usr/lib/jvm/jdk1.6.0_41
 
-PATH=$PATH:~/.cabal/bin
-
 export GROOVY_HOME=/usr/bin/groovy
 PATH=$PATH:$GROOVY_HOME/bin
 
