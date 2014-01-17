@@ -107,4 +107,4 @@ case $TERM in
         TERM="${TERM}-256color" ;;
 esac
 
-source ~/.aliases
+source ~/.env_vars
